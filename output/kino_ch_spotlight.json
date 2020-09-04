@@ -1,0 +1,648 @@
+{
+  "crawler": {
+    "id": "kino_ch_spotlight",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "website": "/capital8",
+    "name": "Spotlight Cinemas Capital 8",
+    "address": "Columbia, SC 29223",
+    "lat": 34.065998124453,
+    "lon": -80.96716628499848
+  },
+  "showtimes": [
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-05T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-05T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-04T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-05T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-05T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-05T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-05T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-04T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-05T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-05T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-04T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-05T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-05T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-04T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-06T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-06T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-05T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-05T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-06T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-06T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-05T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-06T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-06T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-05T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-06T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-06T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-05T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-06T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-06T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-05T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-07T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-07T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-06T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-06T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-07T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-07T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-06T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-07T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-07T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-06T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-07T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-07T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-06T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-07T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-07T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-06T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-08T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-08T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-07T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-08T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-08T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-07T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-08T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-08T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-07T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-08T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-08T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-07T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-08T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-08T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-07T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-09T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-09T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-08T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-09T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-09T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-08T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-09T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-09T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-08T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-09T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-09T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-08T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-09T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-09T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-08T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-10T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-10T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fatima",
+      "start_at": "2020-09-09T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T01:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-10T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-10T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bill & Ted Face the Music",
+      "start_at": "2020-09-09T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-10T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-10T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "What Matters?",
+      "start_at": "2020-09-09T07:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-10T01:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-10T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The New Mutants",
+      "start_at": "2020-09-09T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-10T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-10T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Unhinged",
+      "start_at": "2020-09-09T07:15:00",
+      "is_3d": false
+    }
+  ]
+}

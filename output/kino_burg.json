@@ -1,0 +1,82 @@
+{
+  "crawler": {
+    "id": "kino_burg",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Burg Kino",
+    "address": "Opernring 19, 1010 Vienna, Austria",
+    "website": "https://www.burgkino.at/showtimes",
+    "phone": "+43 1 587 8406"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Corpus Christi (Boze Cialo)",
+      "start_at": "2020-09-04T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi (Boze Cialo)",
+      "start_at": "2020-09-04T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fellini degli spiriti",
+      "start_at": "2020-09-04T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Radioactive - Marie Curie",
+      "start_at": "2020-09-05T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "8½",
+      "start_at": "2020-09-05T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T17:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T17:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-04T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-09-06T16:00:00",
+      "is_3d": false
+    }
+  ]
+}

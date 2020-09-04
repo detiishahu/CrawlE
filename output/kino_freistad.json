@@ -1,0 +1,323 @@
+{
+  "crawler": {
+    "id": "kino_freistad",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Kino Freistad",
+    "address": "Salzgasse 25, A-4240 Freistadt",
+    "website": "https://www.kino-freistadt.at/",
+    "phone": "0043 6133 6308"
+  },
+  "showtimes": [
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T18:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-04T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T18:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "I Still Believe",
+      "start_at": "2020-09-05T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T15:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T15:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T16:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T17:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T19:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Meine Freundin Conni - Geheimnis um Kater Mau",
+      "start_at": "2020-09-06T20:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T18:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T20:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-07T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T20:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-08T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T17:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T18:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-09T20:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T17:45:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T18:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T20:00:00",
+      "is_3d": false,
+      "auditorium": "Saal 1"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T20:15:00",
+      "is_3d": false,
+      "auditorium": "Saal 3"
+    },
+    {
+      "movie_title": "Tenet",
+      "start_at": "2020-09-10T20:30:00",
+      "is_3d": false,
+      "auditorium": "Saal 2"
+    }
+  ]
+}

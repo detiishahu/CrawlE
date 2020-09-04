@@ -1,0 +1,167 @@
+{
+  "crawler": {
+    "id": "kino_stadtkinowien",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "name": "Stadtkinowien",
+    "address": "Siebensterngasse 2/12, 1070 Vienna",
+    "website": "https://stadtkinowien.at/",
+    "phone": "+43 1 361 81 81 "
+  },
+  "showtimes": [
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-04T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Future x Days: The Fashion Issue",
+      "start_at": "2020-09-04T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Westwood: Punk, Icon, Activist",
+      "start_at": "2020-09-04T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-05T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-05T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-06T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-06T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-07T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-07T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-08T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-08T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-09T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-09T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Corpus Christi",
+      "start_at": "2020-09-10T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LOVECUT",
+      "start_at": "2020-09-10T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Rosetta",
+      "start_at": "2020-09-11T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Deux jours, une nuit",
+      "start_at": "2020-09-12T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "L'enfant",
+      "start_at": "2020-09-12T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Romys Salon",
+      "start_at": "2020-09-13T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Le Fils",
+      "start_at": "2020-09-13T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Le gamin au vélo",
+      "start_at": "2020-09-13T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Buchpremiere: \"Repression und Rebellion\" mit Karim El-Gawhary",
+      "start_at": "2020-09-14T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La Promesse",
+      "start_at": "2020-09-14T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Special Screening \"Das Schreiben und das Schweigen\" zur Ausstellung: Schutzgeister, kuratiert von Hans Ulrich Obrist",
+      "start_at": "2020-09-15T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Le Fils",
+      "start_at": "2020-09-15T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Deux jours, une nuit",
+      "start_at": "2020-09-16T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Le silence de Lorna",
+      "start_at": "2020-09-16T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La fille inconnu",
+      "start_at": "2020-09-17T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "L'enfant",
+      "start_at": "2020-09-17T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La Promesse",
+      "start_at": "2020-09-18T18:00:00",
+      "is_3d": false
+    }
+  ]
+}

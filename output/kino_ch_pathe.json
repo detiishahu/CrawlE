@@ -1,0 +1,134 @@
+{
+  "crawler": {
+    "id": "kino_ch_pathe",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.5.2"
+    }
+  },
+  "cinema": {
+    "website": "www.pathe.be/Browsing/Cinemas/Details/0002",
+    "name": "PATHE Pathé Verviers",
+    "address": "Boulevard des Gérardchamps 1 4800 Verviers",
+    "email": "info@pathe.be",
+    "lat": 50.5893,
+    "lon": 5.8485
+  },
+  "showtimes": [
+    {
+      "movie_title": "Break The Silence - The Movie",
+      "start_at": "2020-09-10T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Break The Silence - The Movie",
+      "start_at": "2020-09-11T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Effacer l'historique",
+      "start_at": "2020-09-04T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Effacer l'historique",
+      "start_at": "2020-09-05T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Effacer l'historique",
+      "start_at": "2020-09-06T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Enragé",
+      "start_at": "2020-09-04T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Enragé",
+      "start_at": "2020-09-05T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Enragé",
+      "start_at": "2020-09-06T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Yakari, le film",
+      "start_at": "2020-09-05T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Yakari, le film",
+      "start_at": "2020-09-06T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bigfoot Family",
+      "start_at": "2020-09-05T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bigfoot Family",
+      "start_at": "2020-09-06T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bigfoot Family",
+      "start_at": "2020-09-07T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bigfoot Family",
+      "start_at": "2020-09-08T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Les blagues de Toto",
+      "start_at": "2020-09-04T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Greenland - Le dernier refuge",
+      "start_at": "2020-09-05T19:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Greenland - Le dernier refuge",
+      "start_at": "2020-09-06T19:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "T'as pécho?",
+      "start_at": "2020-09-05T15:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "T'as pécho?",
+      "start_at": "2020-09-06T15:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Adorables",
+      "start_at": "2020-09-05T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Adorables",
+      "start_at": "2020-09-06T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mon ninja et moi",
+      "start_at": "2020-09-05T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mon ninja et moi",
+      "start_at": "2020-09-06T15:00:00",
+      "is_3d": false
+    }
+  ]
+}
